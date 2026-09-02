@@ -1,26 +1,17 @@
-# Passcrypt — Downloads e atualizações
+# Passcrypt
 
-Este repositório público é usado exclusivamente para distribuir versões oficiais do aplicativo Passcrypt e os metadados necessários para atualizações automáticas.
+O Passcrypt é um gerenciador seguro de senhas, passkeys, códigos de
+autenticação e documentos. Ele permite organizar e sincronizar seus dados
+entre dispositivos com criptografia.
 
-## Downloads
+## Sobre este repositório
+
+Este repositório é usado exclusivamente para publicar instaladores e
+atualizações oficiais do aplicativo Passcrypt para Windows, Linux e macOS.
 
 Baixe a versão mais recente na página de [Releases](../../releases/latest).
 
-Plataformas disponibilizadas:
-
-- Windows x64
-- Linux x64
-- macOS Intel (x64)
-- macOS Apple Silicon (arm64)
-
-## Segurança
-
-Instale o Passcrypt somente por meio da página oficial ou das releases publicadas neste repositório. Os artefatos de atualização incluem hashes usados pelo aplicativo para validar a integridade dos downloads.
-
-## Código-fonte
-
-Este é apenas o repositório de distribuição. Os arquivos automáticos “Source code” oferecidos pelo GitHub contêm somente o conteúdo deste repositório e **não** correspondem ao código-fonte do aplicativo Passcrypt.
-
 ## Suporte
 
-Para informações sobre o produto, suporte e política de privacidade, acesse [passcrypt.com.br](https://passcrypt.com.br/).
+Para ajuda, informações e contato, acesse
+[passcrypt.com.br/suporte](https://passcrypt.com.br/pt-BR/support/).
